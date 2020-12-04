@@ -7,7 +7,7 @@ const Writing = () => {
           <br />
           <h2>IELTS Academic Writing</h2>
       
-          <img src="./images/writing.jpg" class="align-left slide-in" />
+          <img src="./images/writing.jpg" alt="writing_img" />
 
           <p>
             The IELTS Academic Writing test is made up of two tasks, Writing Task 1 and Writing Task 2. 
@@ -35,7 +35,7 @@ const Writing = () => {
             need to be in an essay format.
           </p>
 
-          <img src="./images/ielts-writing.jpg" class="align-left slide-in" />
+          <img src="./images/ielts-writing.jpg" alt="writing_img" />
 
           <h2><b>Note</b></h2>
 

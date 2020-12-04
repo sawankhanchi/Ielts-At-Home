@@ -7,7 +7,7 @@ const Reading = () => {
           <br />
           <h2>IELTS Academic Reading</h2>
       
-          <img src="./images/reading.jpg" class="align-left slide-in" />
+          <img src="./images/reading.jpg" alt="reading_img" />
 
           <p>
             The IELTS Academic Reading test assesses a wide range of reading skills including your ability to 

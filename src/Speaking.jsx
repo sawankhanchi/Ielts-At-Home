@@ -49,7 +49,7 @@ const Speaking = () => {
                        which is provided free live speaking with strangers.</p>
           <br />
 
-          <img src="../src/images/ielts-speaking.jpg" class="align-left slide-in" />
+          <img src="../src/images/ielts-speaking.jpg" alt="speaking_img" />
 
           <h2><b>Note</b></h2>
 

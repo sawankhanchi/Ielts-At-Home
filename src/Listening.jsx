@@ -6,7 +6,7 @@ const Listening = () => {
           <h1> Welcome Listening Page </h1>
           <h2>IELTS Academic Listening</h2>
       
-          <img src="./images/listening.jpg" class="align-left slide-in" />
+          <img src="./images/listening.jpg" alt="listening_img" />
 
           <p>
             The IELTS Academic Listening test consists of 4 parts and takes 30 minutes. It assesses your ability 
